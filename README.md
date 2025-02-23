@@ -14,8 +14,8 @@ This repository includes:
    ```bash
    https://github.com/ACM-Eniso/NvidiaDeepLearningTraining-.git
     ```
-or
-```bash
-git@github.com:ACM-Eniso/NvidiaDeepLearningTraining-.git
-```
+   or
+   ```bash
+   git@github.com:ACM-Eniso/NvidiaDeepLearningTraining-.git
+   ```
 ## This repo created By ACM ENISo
